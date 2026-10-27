@@ -1,2 +1,7 @@
-
-OAI_CONFIG_LIST1
+.venv/
+__pycache__/
+*.py[cod]
+outputs/
+OAI_CONFIG_LIST
+OAI_CONFIG_LIST*
+!OAI_CONFIG_LIST.example
